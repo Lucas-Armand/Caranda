@@ -22,8 +22,9 @@ A seguir o exemplo de um cadastro no SIGA:
 ![printscreen_conclusion](https://github.com/Lucas-Armand/Caranda/blob/master/img/SIGA4.png)
 
 ## Credenciamento da OPEMACS no portal Siga - PARTE 2:
-Techo do Manual do Fornecedor (I), falando sobre o Credenciamento:
-'''
+Trecho do Manual do Fornecedor (I), falando sobre o Credenciamento:
+
+´´´
 Para tornar-se um fornecedor Credenciado, após concluir o Registro no SIGA-RJ, é necessário enviar à SEFAZ a documentação constante no
 capítulo II da Portaria SUBLO 002/12, relativa à comprovação dos dados informados sobre o fornecedor no Registro.
 Os documentos deverão ser encaminhados à Equipe de Gestão de Fornecedores – FOR – por uma das opções abaixo:
@@ -35,6 +36,7 @@ Os documentos deverão ser encaminhados à Equipe de Gestão de Fornecedores –
    o Preferencialmente por carta registrada
 * Pessoalmente 
    No Protocolo da SEFAZ o No endereço: Avenida Presidente Vargas, 670, 1º andar, Centro, Rio de Janeiro – RJ. CEP: 20.020-000.
-'''
+´´´
+
 ### Referencia:
  I - Manual de como cadastrar (item 4.1) - http://www.compras.rj.gov.br/publico/docs/manual_registro/manual_do_fornecedor.pdf

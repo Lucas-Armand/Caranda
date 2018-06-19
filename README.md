@@ -10,9 +10,9 @@ A seguir o exemplo de um cadastro no SIGA:
 2) Clicar no botão de quero me cadastrar
 3) Selecionar a opção "Pessoa Jurídica" e em a opção "Sociedade Limitada"
 4) Entrar com a [primeira planilha](https://github.com/Lucas-Armand/Caranda/blob/master/docs/form1_SIGA.txt) de informações: (usr:SARAMARI/pass:NOVA7096)
-[colocar print screen da primeira planilha]
+![printscreen_form1](https://github.com/Lucas-Armand/Caranda/blob/master/img/SIGA1.png)
 5) Segunda Planilha:
-[colocar print screen da segunda planilha]
+![printscreen_form2](https://github.com/Lucas-Armand/Caranda/blob/master/img/SIGA2.png)
 6) [Terceira Planilha](https://github.com/Lucas-Armand/Caranda/blob/master/docs/form1_SIGA.txt):
 
 ### Referencia:

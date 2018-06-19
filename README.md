@@ -1,11 +1,11 @@
-# Caranda
+# Projeto Carandá
 Esse projeto é para a automatização do cadastro dos fornecedores nos portais das diversas instancias do Estado.
 
-# Cadastro de Fornecedor para o Estado do Rio de Janeiro - SIGA
+# 1. Cadastro de Fornecedor para o Estado do Rio de Janeiro - SIGA
 
 A seguir o exemplo de um cadastro no SIGA:
 
-## Cadastro da OPEMACS no portal Siga - PARTE 1:
+## 1.1 Cadastro da OPEMACS no portal Siga - PARTE 1:
 1) Entrar no site do SIGA usando o explorer - https://www.compras.rj.gov.br/publico/
 2) Clicar no botão de quero me cadastrar.
 3) Selecionar a opção "Pessoa Jurídica" e em a opção "Sociedade Limitada".
@@ -21,7 +21,7 @@ A seguir o exemplo de um cadastro no SIGA:
 7) Conclusão:
 ![printscreen_conclusion](https://github.com/Lucas-Armand/Caranda/blob/master/img/SIGA4.png)
 
-## Credenciamento da OPEMACS no portal Siga - PARTE 2:
+## 1.2 Credenciamento da OPEMACS no portal Siga - PARTE 2:
 Trecho do Manual do Fornecedor (I), falando sobre o Credenciamento:
 
 ```
@@ -37,6 +37,18 @@ Os documentos deverão ser encaminhados à Equipe de Gestão de Fornecedores –
 * Pessoalmente 
    No Protocolo da SEFAZ o No endereço: Avenida Presidente Vargas, 670, 1º andar, Centro, Rio de Janeiro – RJ. CEP: 20.020-000.
 ```
+Trecho da Portaria (II) do Estado que regula o Credenciamento:
+```
+CAPÍTULO II
+DO CREDENCIAMENTO
+Art. 2º - Apenas os fornecedores credenciados junto ao Cadastro de Fornecedores do Estado do Rio de Janeiro poderão participar dos processos de compras de materiais e serviços realizados por meio eletrônico no SIGA.
+Art. 3º - Para obter o Credenciamento, o interessado deverá, além de realizar seu Registro conforme o especificado pelo Art. 1º, apresentar os seguintes documentos, acompanhados do respectivo Termo de Responsabilidade-Credenciamento (Anexo I):
+I – para Pessoa Jurídica:
+a) Cópia da Inscrição no Cadastro Nacional de Pessoas Jurídicas (CNPJ);
+b) Cópia do Registro Comercial, no caso de empresa individual; Ato Constitutivo, Estatuto ou Contrato Social, em se tratando de sociedades comerciais; ou Decreto de Autorização, em se tratando de empresa ou sociedade estrangeira; e
+c) Cópia da Cédula de Identidade e do Cadastro de Pessoas Físicas - CPF dos sócios, diretores, procuradores e representantes legais. Quando o sócio de uma empresa for pessoa jurídica, apresentar o Cadastro Nacional de Pessoas Jurídicas - CNPJ desta e Identidade e CPF do seu representante legal.
+```
 
-### Referencia:
+### 1.3 Referências:
  I - Manual de como cadastrar (item 4.1) - http://www.compras.rj.gov.br/publico/docs/manual_registro/manual_do_fornecedor.pdf
+ II - Portaria SUBLO nº 002 -  https://www.compras.rj.gov.br/publico/docs/legislacao/estadual/portarias/Portaria_SUBLO_002.pdf

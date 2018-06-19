@@ -19,5 +19,8 @@ utilizar o sistema:
 6) [Terceira Planilha](https://github.com/Lucas-Armand/Caranda/blob/master/docs/form3_SIGA.txt) - Seleção das áreas de atuação:
 ![printscreen_form3](https://github.com/Lucas-Armand/Caranda/blob/master/img/SIGA3.png)
 
+7) Conclusão:
+![printscreen_conclusion](https://github.com/Lucas-Armand/Caranda/blob/master/img/SIGA4.png)
+
 ### Referencia:
  I - Manual de como cadastrar (item 4.1) - http://www.compras.rj.gov.br/publico/docs/manual_registro/manual_do_fornecedor.pdf

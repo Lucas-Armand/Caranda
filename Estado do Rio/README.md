@@ -1,11 +1,8 @@
-# Projeto Carandá
-Esse projeto é para a automatização do cadastro dos fornecedores nos portais das diversas instancias do Estado.
-
-# 1. Cadastro de Fornecedor para o Estado do Rio de Janeiro - SIGA
+# Cadastro de Fornecedor para o Estado do Rio de Janeiro - SIGA
 
 A seguir o exemplo de um cadastro no SIGA:
 
-## 1.1 Cadastro da OPEMACS no portal Siga - PARTE 1:
+## 1 Cadastro da OPEMACS no portal Siga - PARTE 1:
 1) Entrar no site do SIGA usando o explorer - https://www.compras.rj.gov.br/publico/
 2) Clicar no botão de quero me cadastrar.
 3) Selecionar a opção "Pessoa Jurídica" e em a opção "Sociedade Limitada".
@@ -21,7 +18,7 @@ A seguir o exemplo de um cadastro no SIGA:
 7) Conclusão:
 ![printscreen_conclusion](https://github.com/Lucas-Armand/Caranda/blob/master/img/SIGA4.png)
 
-## 1.2 Credenciamento da OPEMACS no portal Siga - PARTE 2:
+## 2 Credenciamento da OPEMACS no portal Siga - PARTE 2:
 Trecho do Manual do Fornecedor (I), falando sobre o Credenciamento:
 
 ```
@@ -49,6 +46,6 @@ b) Cópia do Registro Comercial, no caso de empresa individual; Ato Constitutivo
 c) Cópia da Cédula de Identidade e do Cadastro de Pessoas Físicas - CPF dos sócios, diretores, procuradores e representantes legais. Quando o sócio de uma empresa for pessoa jurídica, apresentar o Cadastro Nacional de Pessoas Jurídicas - CNPJ desta e Identidade e CPF do seu representante legal.
 ```
 
-### 1.3 Referências:
+## 3 Referências:
  I - [Manual de como cadastrar](http://www.compras.rj.gov.br/publico/docs/manual_registro/manual_do_fornecedor.pdf) (item 4.1) 
  II - [Portaria SUBLO nº 002](https://www.compras.rj.gov.br/publico/docs/legislacao/estadual/portarias/Portaria_SUBLO_002.pdf)

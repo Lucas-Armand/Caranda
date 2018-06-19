@@ -50,5 +50,5 @@ c) Cópia da Cédula de Identidade e do Cadastro de Pessoas Físicas - CPF dos s
 ```
 
 ### 1.3 Referências:
- I - Manual de como cadastrar (item 4.1) - http://www.compras.rj.gov.br/publico/docs/manual_registro/manual_do_fornecedor.pdf
- II - Portaria SUBLO nº 002 -  https://www.compras.rj.gov.br/publico/docs/legislacao/estadual/portarias/Portaria_SUBLO_002.pdf
+ I - [Manual de como cadastrar](http://www.compras.rj.gov.br/publico/docs/manual_registro/manual_do_fornecedor.pdf) (item 4.1) 
+ II - [Portaria SUBLO nº 002](https://www.compras.rj.gov.br/publico/docs/legislacao/estadual/portarias/Portaria_SUBLO_002.pdf)

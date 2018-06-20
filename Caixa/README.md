@@ -6,14 +6,8 @@ A seguir o exemplo de um cadastro na Caixa:
 1) Entrar no site de Fornecedor da Caixa - http://www5.caixa.gov.br/fornecedores/dados_fornecedores/index.asp
 2) Aceitar o termo de uso. Clicar em "Concordo"
 3) Escolher a opção "Pessoa Jurídica" 
-
-3) Selecionar a opção "Pessoa Jurídica" e em a opção "Sociedade Limitada".
-4) [Primeira planilha](https://github.com/Lucas-Armand/Caranda/blob/master/docs/form1_SIGA.txt) - Informações da Empresa: (usr:SARAMARI/pass:NOVA7096)
-![printscreen_form1](https://github.com/Lucas-Armand/Caranda/blob/master/img/SIGA1.png)
-
-5) Segunda Planilha - Registrar individualmente cada um dos funcionários e/ou sócios que vão utilizar o sistema:
-![printscreen_form2](https://github.com/Lucas-Armand/Caranda/blob/master/img/SIGA2.png)
-
+4) [Primeira planilha](https://github.com/Lucas-Armand/Caranda/blob/master/docs/form1_CAIXA.txt) (usr:00097117000135/pass:NOVA7096)
+5) Esperar email de confirmação
 6) [Terceira Planilha](https://github.com/Lucas-Armand/Caranda/blob/master/docs/form3_SIGA.txt) - Seleção das áreas de atuação:
 ![printscreen_form3](https://github.com/Lucas-Armand/Caranda/blob/master/img/SIGA3.png)
 
@@ -50,6 +44,6 @@ c) Cópia da Cédula de Identidade e do Cadastro de Pessoas Físicas - CPF dos s
 
 ## 3 Referências:
 
-I - [Manual de como cadastrar](http://www.compras.rj.gov.br/publico/docs/manual_registro/manual_do_fornecedor.pdf) (item 4.1) 
+I - [Como achar a inscrição estadual](http://www.sintegra.gov.br/)  
 
 II - [Portaria SUBLO nº 002](https://www.compras.rj.gov.br/publico/docs/legislacao/estadual/portarias/Portaria_SUBLO_002.pdf)

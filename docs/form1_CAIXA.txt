@@ -1,0 +1,41 @@
+Preencha o cadastro abaixo para participar do processo de Compra Eletrônica da CAIXA. 
+
+Campos com asteriscos (*) são obrigatórios.
+
+CNPJ (*)	
+Razão Social (*)	
+Nome Fantasia (*)	
+Responsável (*)	
+Forma Constituição (*)	
+Inscrição Estadual	
+Inscrição Municipal	
+
+Classificação Nacional de Atividade Econômica 
+
+Seção(*)	
+Divisão(*)	
+Subclasse(*)	
+
+  
+CEP (*)	
+	         
+Telefone (*)	
+DDD	Número	Ramal
+
+ 
+ 
+Fax	
+DDD	Número	Ramal
+
+ 
+ 
+E-Mail (*)	
+Confirme E-Mail (*)	
+Endereço WEB	
+Banco (*)	
+Código	Agência	Conta Corrente	Dígito
+
+ 
+ 
+ 
+Informe uma Senha para acesso ao Portal de Compras da CAIXA	(*)

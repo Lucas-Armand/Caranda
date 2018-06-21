@@ -15,7 +15,7 @@ A seguir o exemplo de um cadastro na Caixa:
 9) Após digitar seus dados no Site da CAIXA, o fornecedor será convocado, por e-mail, a comparecer a uma das Agências da CAIXA, para efetivar a sua certificação. A certificação do fornecedor será feita pelo Gerente Empresarial da Agência após verificar a autenticidade dos documentos e das informações prestadas.
 
 
-
+----------------------------------------------------------------------------------------------------------------
 
 
 

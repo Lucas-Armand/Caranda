@@ -27,3 +27,47 @@ Quer apresentar seu portfólio de soluções, produtos e/ou serviços ao Banco, 
  
 disec.relacionamentoti@bb.com.br  -  portfólio de TI
 disec.difor@bb.com.br   -  portfólio demais
+
+
+## Contato sobre atualização do sistema
+
+
+Prezado Sr Lucas,
+
+Agradecemos o seu contato e aproveitamos para informar que o processo de compras do Banco do Brasil segue a Lei 13.303/2016 e o Regulamento de Licitações e Contratos do Banco do Brasil - RLBB, disponível no site do BB na internet.
+
+O senhor também pode consultar e acompanhar os processos de compra do BB na página Relações com Fornecedores do Portal BB na internet, na opção "Compras e contratações", Avisos e Editais.
+
+Especificamente em relação à sua indagação, informamos que se encontra em desenvolvimento a disponibilização de um ambiente na internet (Portal do Fornecedor) no qual será possível realizar o cadastramento de fornecedores do BB.
+
+Cordialmente,
+
+Banco do Brasil S.A.
+VISIN - Vice-presidência de Suprimentos Infraest. e Patrimônio
+DISEC- DIRETORIA DE SUPRIMENTOS INFRAEST. E PATRIMONIO   
+Divisão de Relacionamento com Fornecedores TI
+
+Uma das empresas mais éticas do mundo.
+Ethisphere 2014
+
+Correio Eletrônico: disec.relacionamentoti@bb.com.br
+
+
+
+-----Lucas Armand <lucas.armand@carandaconsultoria.com> escreveu: -----
+Para: disec.relacionamentoti@bb.com.br
+De: Lucas Armand <lucas.armand@carandaconsultoria.com>
+Data: 20/06/2018 02:21 PM
+Assunto: Sobre o Cadastro de Fornecedor no Banco do Brasil
+
+Olá, 
+
+Meu nome é Lucas, sou analista de negócios na Carandá Consultoria, nós gostaríamos de nos cadastrar como fornecedores do Banco do Brasil, mas ao mesmo tempo temos o objetivo de fornecer um serviço de consultoria para ajudar outra empresas no Cadastro. 
+
+Na verdade, estamos tentando trazer alguma inovação para área de cadastramento  corporativo, criando uma ferramento que realiza o cadastro dos fornecedores em várias plataformas (publicas e privadas) ao mesmo tempo.
+
+Gostaria de saber se existe alguma maneira do cliente não precisar ir a agência para realizar seu cadastro (por e-mail ou algo assim)? E se não, se existe alguma perspectiva de modernização nesse sentido (algo como o SICAF digital para o BB).
+
+Agradeço desde já a atenção e fico no aguardo de sua resposta.
+
+Bons Ventos!

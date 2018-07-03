@@ -35,6 +35,7 @@ Equipe do Portal de Fornecedores Vale, Nimbi
 4) Seguindo as instruções do email vocẽ chega nessa tela:
 ![cadastro da vale](https://github.com/Lucas-Armand/Caranda/blob/master/Vale/vale2.png)
 
+5) Nesse ponto você pode selecionar atividades (CNAE), deve selecionar o modo de pagamento para a nimbi (pós Pago) e concordar com termo de uso.
 
 
 

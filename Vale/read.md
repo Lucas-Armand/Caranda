@@ -4,29 +4,40 @@ A seguir o exemplo de um cadastro na Vale:
 
 ## Cadastro da OPEMACS na Vale:
 1) As duas primeiras etapas são as do formulário:
-![printscreen_form3](https://github.com/Lucas-Armand/Caranda/blob/master/img/SIGA3.png)
+![tutorial da vale](https://github.com/Lucas-Armand/Caranda/blob/master/Vale/vale1.png)
+
+2) Quando ligar pra lá: Clicar 1 e 2. falar cnpj e contato (email) e ai ficar esperando email.
+
+3) E ai você recebe esse email:
+
+'''
+2018-07-02 06:49:05 PDT - Juliana Bertolino dos Reis Additional comments
+Prezado Fornecedor, 
+
+Conforme verificado, já foi aceito o e-mail convite, porém, para que a empresa possa transacionar corretamente junto a vale e você possa visualizar as cotações em aberto, peço que por gentileza conclua o seu cadastro junto ao portal Nimbi na área Vale.
+
+Segue passo a passo:
+- Acessar a plataforma através do link nim.bi/vale;
+- Clicar em "Certifica";
+- Clicar em “Meus Clientes” e em seguida, Vale S.A.;
+- No canto direito da tela, clicar em "Editar Cadastro";
+- Na aba “Registro” preencher as informações sinalizadas com asterisco vermelho, além do CNAE; 
+- Na aba “Atuação” preencher a opção “Categoria”;
+- Na aba “Termo de Adesão”, selecionar o plano que será utilizado para as transações junto a Vale, clicar “Em declaro que li e estou de acordo com o termo” e em seguida clicar em “Enviar para Avaliação”.
+
+Em caso de dúvidas, estamos à disposição.
+
+Att, 
+Equipe do Portal de Fornecedores Vale, Nimbi
+
+'''
+
+4) Seguindo as instruções do email vocẽ chega nessa tela:
+![cadastro da vale](https://github.com/Lucas-Armand/Caranda/blob/master/Vale/vale1.png)
 
 
-
-1) Entrar no site de Fornecedor da Caixa - http://www5.caixa.gov.br/fornecedores/dados_fornecedores/index.asp
-2) Aceitar o termo de uso. Clicar em "Concordo"
-3) Escolher a opção "Pessoa Jurídica" 
-4) [Primeira planilha](https://github.com/Lucas-Armand/Caranda/blob/master/docs/form1_CAIXA.txt) (usr:00097117000135/pass:NOVA7096)
-5) Esperar email de confirmação
-6) A caixa manda um [email](https://github.com/Lucas-Armand/Caranda/blob/master/img/CAIXA1.png) inicial:
-7) Entrando de novo no site da caixa e faz login: http://www5.caixa.gov.br/fornecedores/pregao_internet/index.asp (usr:00097117000135/pass:NOVA7096)
-8) Fazendo um novo cadastro usando dados parecidos com o da primieira planilha.
-
-9) Após digitar seus dados no Site da CAIXA, o fornecedor será convocado, por e-mail, a comparecer a uma das Agências da CAIXA, para efetivar a sua certificação. A certificação do fornecedor será feita pelo Gerente Empresarial da Agência após verificar a autenticidade dos documentos e das informações prestadas.
 
 
 ----------------------------------------------------------------------------------------------------------------
 
 
-
-
-6) [Terceira Planilha](https://github.com/Lucas-Armand/Caranda/blob/master/docs/form3_SIGA.txt) - Seleção das áreas de atuação:
-![printscreen_form3](https://github.com/Lucas-Armand/Caranda/blob/master/img/SIGA3.png)
-
-7) Conclusão:
-![printscreen_conclusion](https://github.com/Lucas-Armand/Caranda/blob/master/img/SIGA4.png)

@@ -33,7 +33,7 @@ Equipe do Portal de Fornecedores Vale, Nimbi
 '''
 
 4) Seguindo as instruções do email vocẽ chega nessa tela:
-![cadastro da vale](https://github.com/Lucas-Armand/Caranda/blob/master/Vale/vale1.png)
+![cadastro da vale](https://github.com/Lucas-Armand/Caranda/blob/master/Vale/vale2.png)
 
 
 
